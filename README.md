@@ -1,2 +1,2 @@
-# Weather-App-Using-Python
-This is a basic Weather App created by me using Python libraries
+Hello Myself Lucky Samant.
+Check out Some of my Projects
